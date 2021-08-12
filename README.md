@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/simscolony/Slice_of_Life_Traditional_THAI/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Slice of Life แปลไทย 100% 
+แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![maxresdefault](https://user-images.githubusercontent.com/13219372/129072040-c15f7aca-7099-4414-9286-845048d32859.jpg)
 
-### Markdown
+# แปลไทย  Slice of Life  อัพเดท 11 สิงหาคม 2564 - อัตราการแปล 99.37%
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| SIMSCOLONY THAI|  Slice of Life 11-8-2021|
+| ------------- | ------------- |
+|  Slice of Life Github| [ดาวโหลดแปล Slice of Life ไทย ](https://github.com/simscolony/Slice_of_Life_Traditional_THAI/raw/main/%5BSIMSCOLONY%5D_Slice%20of%20Life_V1_TH%5B11-8-2021%5D.package) |
+|  Slice of Life | [simfileshare]() |
 
-```markdown
-Syntax highlighted code block
+*สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
+# Update Last Support 
 
-# Header 1
-## Header 2
-### Header 3
+![Slice of Life TH1](https://static.wixstatic.com/media/46c7ed_21b8e7ae02374f57a6a60ec82ace855c~mv2.png/v1/fill/w_940,h_529,al_c,q_95/46c7ed_21b8e7ae02374f57a6a60ec82ace855c~mv2.webp)
+## Public  Slice of Life Mod 🍓 Complete
+##  patreon  Slice of Life Mod 🍓 Complete V5 Comples
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# วิธีการลง
+1. ติดตั้ง MOD ภาพไทย
+https://simscolony.github.io/TS4THDEMO/
 
-**Bold** and _Italic_ and `Code` text
+2. ดาวโหลด MOD Slice of Life Mod 🍓 Complete
+Patreon https://www.kawaiistaciemods.com/post/slice-of-life-mod-complete
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+3. นำลงใส่ใน FLoder Mods
+![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129068601-4f4b8be8-1abc-4e03-b49a-fddc25179766.jpg)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/simscolony/Slice_of_Life_Traditional_THAI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+# หากพบปัญหา แจ้งงานแปล
+## ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# ภายใต้การอนุญาติ 
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+
+Slice_of_Life_Traditional_THAI
