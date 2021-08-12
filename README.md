@@ -35,17 +35,16 @@ Patreon https://www.kawaiistaciemods.com/post/slice-of-life-mod-complete
 
 
 # ตัวอย่างการเล่น
-![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 220017 bmp](https://user-images.githubusercontent.com/13219372/129126969-58db66c5-99a6-495a-8968-60efbdabdb81.jpg)
-![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 221025 bmp](https://user-images.githubusercontent.com/13219372/129126973-546d6325-4232-4a6c-9903-3652e85f8ef9.jpg)
-![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 221040 bmp](https://user-images.githubusercontent.com/13219372/129126979-2ffa9cec-2a37-4647-8ec1-abefe2e753c5.jpg)
-![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 221119 bmp](https://user-images.githubusercontent.com/13219372/129126982-20f6963d-e6a1-4ab1-968e-ee08e27e596c.jpg)
-![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 221209 bmp](https://user-images.githubusercontent.com/13219372/129126984-72797d3c-a9a4-486d-9610-744d80d82082.jpg)
-![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 233020 bmp](https://user-images.githubusercontent.com/13219372/129126985-13045193-1cf4-4b29-a816-9daeb66a8c99.jpg)
-![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 233024 bmp](https://user-images.githubusercontent.com/13219372/129126988-d2a39440-52a4-4339-9495-81dfbebd880e.jpg)
-![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 233027 bmp](https://user-images.githubusercontent.com/13219372/129126990-5f8f4cff-d8c9-44ef-8c06-79cd587420a4.jpg)
-![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 233033 bmp](https://user-images.githubusercontent.com/13219372/129126992-0f175803-f251-4b01-805e-492aaf8fb46e.jpg)
-![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 233038 bmp](https://user-images.githubusercontent.com/13219372/129126994-58adb0d7-77c1-4772-a21d-86ed6726fd95.jpg)
-![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 233041 bmp](https://user-images.githubusercontent.com/13219372/129126996-99876197-ca01-4a2b-b084-4d4f91c45af2.jpg)
+![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129126973-546d6325-4232-4a6c-9903-3652e85f8ef9.jpg)
+![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129126979-2ffa9cec-2a37-4647-8ec1-abefe2e753c5.jpg)
+![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129126982-20f6963d-e6a1-4ab1-968e-ee08e27e596c.jpg)
+![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129126984-72797d3c-a9a4-486d-9610-744d80d82082.jpg)
+![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129126985-13045193-1cf4-4b29-a816-9daeb66a8c99.jpg)
+![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129126988-d2a39440-52a4-4339-9495-81dfbebd880e.jpg)
+![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129126990-5f8f4cff-d8c9-44ef-8c06-79cd587420a4.jpg)
+![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129126992-0f175803-f251-4b01-805e-492aaf8fb46e.jpg)
+![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129126994-58adb0d7-77c1-4772-a21d-86ed6726fd95.jpg)
+![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129126996-99876197-ca01-4a2b-b084-4d4f91c45af2.jpg)
 
 
 # หากพบปัญหา แจ้งงานแปล
