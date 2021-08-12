@@ -29,10 +29,12 @@ Patreon https://www.kawaiistaciemods.com/post/slice-of-life-mod-complete
 
 
 3. นำลงใส่ใน FLoder Mods
+4. 
 ![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129068601-4f4b8be8-1abc-4e03-b49a-fddc25179766.jpg)
 
 
 
+# ตัวอย่างการเล่น
 ![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 220017 bmp](https://user-images.githubusercontent.com/13219372/129126969-58db66c5-99a6-495a-8968-60efbdabdb81.jpg)
 ![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 221025 bmp](https://user-images.githubusercontent.com/13219372/129126973-546d6325-4232-4a6c-9903-3652e85f8ef9.jpg)
 ![บันทึกแบบเต็มหน้าจอ 11 ส ค  2564 221040 bmp](https://user-images.githubusercontent.com/13219372/129126979-2ffa9cec-2a37-4647-8ec1-abefe2e753c5.jpg)
