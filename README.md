@@ -1,10 +1,10 @@
 
 # Slice of Life แปลไทย 100% 
-แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
-
 ![maxresdefault](https://user-images.githubusercontent.com/13219372/129072040-c15f7aca-7099-4414-9286-845048d32859.jpg)
 
-# แปลไทย  Slice of Life  อัพเดท 11 สิงหาคม 2564 - อัตราการแปล 99.37%
+# แปลไทย  Slice of Life  อัพเดท 12 สิงหาคม 2564 - อัตราการแปล 100%
+รองรับทั้ง ตัวฟรี Public V2.0 และ Pareon V5.0
+แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
 
 | SIMSCOLONY THAI|  Slice of Life 11-8-2021|
 | ------------- | ------------- |
@@ -29,7 +29,7 @@ Patreon https://www.kawaiistaciemods.com/post/slice-of-life-mod-complete
 
 
 3. นำลงใส่ใน FLoder Mods
-4. 
+
 ![Slice of Life TH1](https://user-images.githubusercontent.com/13219372/129068601-4f4b8be8-1abc-4e03-b49a-fddc25179766.jpg)
 
 
