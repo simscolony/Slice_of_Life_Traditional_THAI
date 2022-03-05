@@ -2,19 +2,21 @@
 # Slice of Life แปลไทย 100% 
 ![maxresdefault](https://user-images.githubusercontent.com/13219372/129072040-c15f7aca-7099-4414-9286-845048d32859.jpg)
 
-# แปลไทย  Slice of Life  อัพเดท 12 สิงหาคม 2564 - อัตราการแปล 100%
-รองรับทั้ง ตัวฟรี Public V2.0 และ Pareon V5.0
+# แปลไทย  Slice of Life  อัพเดท 4 มีนาคม 2565 - อัตราการแปล 100%
+รองรับทั้ง ตัวฟรี Public V3.1 และ Pareon V6.1
 แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
 
-| SIMSCOLONY THAI|  Slice of Life 11-8-2021|
+| SIMSCOLONY THAI|  Slice of Life 04-02-2022|
 | ------------- | ------------- |
-|  Slice of Life Github| [ดาวโหลดแปล Slice of Life ไทย ](https://github.com/simscolony/Slice_of_Life_Traditional_THAI/raw/main/%5BSIMSCOLONY%5D_Slice%20of%20Life_V1_TH%5B12-8-2021%5D.package) |
-|  Slice of Life | [simfileshare](http://www.simfileshare.net/download/2672130/) |
+|  Slice of Life | [Download](https://modsfire.com/7EFQdJy42DCHBA8) |
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 # Update Last Support 
 
-![Slice of Life TH1](https://static.wixstatic.com/media/46c7ed_21b8e7ae02374f57a6a60ec82ace855c~mv2.png/v1/fill/w_940,h_529,al_c,q_95/46c7ed_21b8e7ae02374f57a6a60ec82ace855c~mv2.webp)
+
+
+![Slice of Life TH1]
+
 ## Public  Slice of Life Mod 🍓 Complete
 ##  patreon  Slice of Life Mod 🍓 Complete V5 Comples
 
